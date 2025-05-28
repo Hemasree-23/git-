@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Aws
+=======
 Devops
+>>>>>>> feature2
